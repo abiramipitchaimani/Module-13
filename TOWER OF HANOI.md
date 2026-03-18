@@ -1,5 +1,4 @@
-# Exp.No:35  
-## TOWER OF HANOI
+# Exp.No:13 E - TOWER OF HANOI
 
 ---
 

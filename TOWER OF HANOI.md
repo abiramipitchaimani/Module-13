@@ -43,9 +43,6 @@ def TowerOfHanoi(n , source, destination, auxiliary):
 n=int(input())		
 print("No. of disks =",n)
 
-
-
-
 ```
 
 ### OUTPUT
